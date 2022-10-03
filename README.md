@@ -1,2 +1,0 @@
-# ATliQ-hardware-
-sales analysis
